@@ -43,4 +43,4 @@ public class EditMenuHandler implements ActionListener{
             SpecifiedDates.append("Please read in a file of dates before attempting to use the Search feature.");
         } //failsafe that displays a message if the user attempts to Search without reading a file in
     } //search method that allows the user to enter a year and display all of the dates with the corresponding year
-}
+} //class EditMenuHandler
